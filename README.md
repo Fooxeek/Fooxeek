@@ -9,7 +9,6 @@
 
 <ul>
     <li>I’m currently working at <strong>PolarFi</strong> 🔭</li>
-    <li>I’m currently learning <strong>Angular</strong> 🌱</li>
     <li>Order <strong>ON</strong> 👯</li>
     <li>All of my public projects are available <a href="https://github.com/Fooxeek?tab=repositories"><strong>here</strong></a> 🖥️</li>
     <li>Contact me <a href="mailto:contact@foxeek.fr"><strong>contact@foxeek.fr</strong></a> 📫</li>
