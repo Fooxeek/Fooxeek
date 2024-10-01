@@ -4,7 +4,7 @@
     </a> 
 </p>
 
-<h1 align="center">Hello, I'm Logan (Foxeek)</h1>
+<h1 align="center">Hello, I'm Logan</h1>
 <h3 align="center">Web Developer</h3>
 
 <ul>
