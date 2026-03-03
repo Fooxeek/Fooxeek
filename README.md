@@ -2,7 +2,7 @@
 
 [![Frontend](images/banner.png)](https://twitter.com/F0XEEK)
 
-### Frontend Developer · TypeScript Enthusiast · Building clean things for the web
+### Fullstack Developer · TypeScript Enthusiast · Building clean things for the web
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/F0XEEK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
@@ -14,10 +14,10 @@
 
 ## 👋 About me
 
-I'm **Logan**, a frontend web developer passionate about building robust, scalable, and maintainable applications. I primarily work with **TypeScript** across the stack — from building reactive UIs with **Next.js** and **React** to crafting clean REST APIs with **NestJS**.
+I'm **Logan**, a fullstack web developer passionate about building robust, scalable, and maintainable applications. I primarily work with **TypeScript** across the stack — from building reactive UIs with **Next.js** and **React** to crafting clean REST APIs with **NestJS**.
 
 - 🔭 All my public projects are available **[here](https://github.com/Fooxeek?tab=repositories)**
-- 🛠️ Currently focused on **frontend architecture** and **UI/UX implementation**
+- 🛠️ Currently focused on **frontend architecture** and **backend design**
 - 📫 Reach me at **[contact@foxeek.fr](mailto:contact@foxeek.fr)**
 
 ---
