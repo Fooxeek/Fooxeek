@@ -17,7 +17,7 @@
 I'm **Logan**, a fullstack web developer passionate about building robust, scalable, and maintainable applications. I primarily work with **TypeScript** across the stack — from building reactive UIs with **Next.js** and **React** to crafting clean REST APIs with **NestJS**.
 
 - 🔭 All my public projects are available **[here](https://github.com/Fooxeek?tab=repositories)**
-- 🛠️ Currently focused on **frontend architecture** and **backend design**
+- 🛠️ Currently focused on **frontend design** and **backend architecture**
 - 📫 Reach me at **[contact@foxeek.fr](mailto:contact@foxeek.fr)**
 
 ---
